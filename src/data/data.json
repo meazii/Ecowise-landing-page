@@ -1,10 +1,10 @@
 {
   "Header": {
-    "title": "We are a Landing Page",
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sed commodo nibh ante facilisis bibendum."
+    "title": "EcoWise pest control",
+    "paragraph": "The pest control expert you can trust."
   },
   "About": {
-    "paragraph": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "paragraph": "Providing a pest control service is more than just exterminating bugs, it’s all about protecting what you love. Our services are eco-friendly, non harmful to humans or pets.  From flies to mosquitos and mice to roaches, we have seen and handled just about everything, and we have the tools, materials, and training to handle the issue for you as well. When we say we are a customer-focused company, we mean it—your satisfaction is our number one priority, and we never cut corners or sacrifice on quality because we believe you deserve better.",
     "Why": [
       "Lorem ipsum dolor",
       "Tempor incididunt",
@@ -67,66 +67,61 @@
   ],
   "Services": [
     {
-      "icon": "fa fa-wordpress",
-      "name": "Lorem ipsum dolor",
+      "icon": "fa fa-bug",
+      "name": "Pest control and Fumigation",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-cart-arrow-down",
-      "name": "Consectetur adipiscing",
+      "name": "Disinfection for Covid-19",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     },
     {
       "icon": "fa fa-cloud-download",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-language",
-      "name": "Consectetur adipiscing",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-plane",
-      "name": "Lorem ipsum dolor",
-      "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
-    },
-    {
-      "icon": "fa fa-pie-chart",
-      "name": "Consectetur adipiscing",
+      "name": "Cleaning Service",
       "text": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at."
     }
   ],
   "Testimonials": [
     {
-      "img": "img/testimonials/01.jpg",
+      "img": "img/testimonials/07.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Haile Hotels & Resort"
     },
     {
-      "img": "img/testimonials/02.jpg",
+      "img": "img/testimonials/10.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Indochine International"
     },
     {
-      "img": "img/testimonials/03.jpg",
+      "img": "img/testimonials/09.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Sidra International Hotel"
     },
     {
-      "img": "img/testimonials/04.jpg",
+      "img": "img/testimonials/08.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Kenenisa Hotel plus"
     },
     {
-      "img": "img/testimonials/05.jpg",
+      "img": "img/testimonials/06.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "John Doe"
+      "name": "Hibret Bank"
     },
     {
-      "img": "img/testimonials/06.jpg",
+      "img": "img/testimonials/15.png",
       "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
-      "name": "Johnathan Doe"
+      "name": "Monarch Hotel"
+    },
+    {
+      "img": "img/testimonials/17.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Destiny Addis Hotel"
+    },
+    {
+      "img": "img/testimonials/16.png",
+      "text": "\"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sed dapibus leo nec ornare diam sedasd commodo nibh ante facilisis bibendum dolor feugiat at.\"",
+      "name": "Zola international Hotel"
     }
   ],
   "Team": [
@@ -152,33 +147,36 @@
     }
   ],
   "Contact": {
-    "address": "4321 California St, San Francisco, CA 12345 ",
-    "phone": "+1 123 456 1234",
-    "email": "info@company.com",
-    "facebook": "fb.com",
+    "address": "Addis Ababa, 4 Killo",
+    "phone": " +251 91 205 4048 ",
+    "email": "ecowiseethiopia@gmail.com",
+    "facebook": "https://www.facebook.com/ecowisepc/",
     "twitter": "twitter.com",
-    "youtube": "youtube.com"
+    "youtube": "youtube.com",
+    "mail":"gmail.com"
+
   },
   "Features": [
+    
     {
-      "icon": "fa fa-comments-o",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-magic",
+      "title": "Experience and Expertise",
+      "text": "We have years of experience in the pest control industry, and our team is made up of highly skilled professionals who are experts in dealing with a wide range of pests."
     },
     {
-      "icon": "fa fa-bullhorn",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "icon": "fa fa-cloud-download",
+      "title": "Licensed and Insured",
+      "text": "We are a licensed and insured pest control company. This means that we meet all the necessary requirements and regulations set by the relevant authorities."
     },
     {
       "icon": "fa fa-group",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Quick Response Time",
+      "text": "We understand that pests can cause significant disruptions and pose health risks, so we prioritize prompt service."
     },
     {
       "icon": "fa fa-magic",
-      "title": "Lorem ipsum",
-      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+      "title": "Positive Customer Reviews",
+      "text": "We have a track record of satisfied customers who have experienced the effectiveness of our pest control services. "
     }
   ]
 }

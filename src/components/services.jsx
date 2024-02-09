@@ -6,10 +6,25 @@ export const Services = (props) => {
       <div className="container">
         <div className="section-title">
           <h2>Our Services</h2>
-          <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit duis sed
-            dapibus leonec.
-          </p>
+          <div style={{
+            display: "flex",
+            flexDirection:"column",
+            justifyContent: "center",
+            alignItems: "center",
+
+          }}>
+            <div style={{
+            display: "flex",
+            flexDirection:"row",
+            justifyContent: "space-between",
+            minWidth: "55%",
+            maxWidth: "100%"
+          }}>
+            <h3>Residential</h3><h3>|</h3>
+            <h3>Comercial</h3><h3>|</h3>
+            <h3>Industrial</h3>
+            </div>
+            </div>
         </div>
         <div className="row">
           {props.data
